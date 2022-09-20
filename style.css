@@ -79,7 +79,7 @@ header{
   left: 0;
   width: 45%;
   height: 100%;
-  overflow: hidden;
+ /* overflow: hidden;*/
 }
 .content{
   position: absolute;
